@@ -1,0 +1,9 @@
+C:\programs\linear sensor TCD1304\호스트 컴퓨터 프로그램 C#-VS2019\obj\Debug\CCD.csproj.AssemblyReference.cache
+C:\programs\linear sensor TCD1304\호스트 컴퓨터 프로그램 C#-VS2019\obj\Debug\CCD.Form1.resources
+C:\programs\linear sensor TCD1304\호스트 컴퓨터 프로그램 C#-VS2019\obj\Debug\CCD上位机.Properties.Resources.resources
+C:\programs\linear sensor TCD1304\호스트 컴퓨터 프로그램 C#-VS2019\obj\Debug\CCD.csproj.GenerateResource.cache
+C:\programs\linear sensor TCD1304\호스트 컴퓨터 프로그램 C#-VS2019\obj\Debug\CCD.csproj.CoreCompileInputs.cache
+C:\programs\linear sensor TCD1304\호스트 컴퓨터 프로그램 C#-VS2019\obj\Debug\CCD上位机.exe
+C:\programs\linear sensor TCD1304\호스트 컴퓨터 프로그램 C#-VS2019\obj\Debug\CCD上位机.pdb
+C:\programs\linear sensor TCD1304\호스트 컴퓨터 프로그램 C#-VS2019\bin\Debug\CCD上位机.exe
+C:\programs\linear sensor TCD1304\호스트 컴퓨터 프로그램 C#-VS2019\bin\Debug\CCD上位机.pdb

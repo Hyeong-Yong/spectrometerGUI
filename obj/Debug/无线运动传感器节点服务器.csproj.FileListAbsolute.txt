@@ -1,0 +1,52 @@
+D:\MCU\电赛\2020电赛\服务器端\无线运动传感器节点服务器\obj\Debug\无线运动传感器节点服务器.csprojAssemblyReference.cache
+D:\MCU\电赛\2020电赛\服务器端\无线运动传感器节点服务器\obj\Debug\无线运动传感器节点服务器.Form1.resources
+D:\MCU\电赛\2020电赛\服务器端\无线运动传感器节点服务器\obj\Debug\无线运动传感器节点服务器.Properties.Resources.resources
+D:\MCU\电赛\2020电赛\服务器端\无线运动传感器节点服务器\obj\Debug\无线运动传感器节点服务器.csproj.GenerateResource.cache
+D:\MCU\电赛\2020电赛\服务器端\无线运动传感器节点服务器\bin\Debug\无线运动传感器节点服务器.exe
+D:\MCU\电赛\2020电赛\服务器端\无线运动传感器节点服务器\bin\Debug\无线运动传感器节点服务器.pdb
+D:\MCU\电赛\2020电赛\服务器端\无线运动传感器节点服务器\obj\Debug\无线运动传感器节点服务器.exe
+D:\MCU\电赛\2020电赛\服务器端\无线运动传感器节点服务器\obj\Debug\无线运动传感器节点服务器.pdb
+D:\MCU\电赛\2020电赛\服务器端\无线运动传感器节点服务器 TCP+蓝牙版本\bin\Debug\无线运动传感器节点服务器.exe
+D:\MCU\电赛\2020电赛\服务器端\无线运动传感器节点服务器 TCP+蓝牙版本\bin\Debug\无线运动传感器节点服务器.pdb
+D:\MCU\电赛\2020电赛\服务器端\无线运动传感器节点服务器 TCP+蓝牙版本\obj\Debug\无线运动传感器节点服务器.csprojAssemblyReference.cache
+D:\MCU\电赛\2020电赛\服务器端\无线运动传感器节点服务器 TCP+蓝牙版本\obj\Debug\无线运动传感器节点服务器.Form1.resources
+D:\MCU\电赛\2020电赛\服务器端\无线运动传感器节点服务器 TCP+蓝牙版本\obj\Debug\无线运动传感器节点服务器.Properties.Resources.resources
+D:\MCU\电赛\2020电赛\服务器端\无线运动传感器节点服务器 TCP+蓝牙版本\obj\Debug\无线运动传感器节点服务器.csproj.GenerateResource.cache
+D:\MCU\电赛\2020电赛\服务器端\无线运动传感器节点服务器 TCP+蓝牙版本\obj\Debug\无线运动传感器节点服务器.exe
+D:\MCU\电赛\2020电赛\服务器端\无线运动传感器节点服务器 TCP+蓝牙版本\obj\Debug\无线运动传感器节点服务器.pdb
+E:\2016淘宝\2020年TI杯电子设计大赛 A题 无线运动传感器节点设计\无线运动传感器节点开源资料\服务器端工程源码\无线运动传感器节点服务器 TCP+蓝牙版本\obj\Debug\无线运动传感器节点服务器.csprojAssemblyReference.cache
+E:\2016淘宝\2020年TI杯电子设计大赛 A题 无线运动传感器节点设计\无线运动传感器节点开源资料\服务器端工程源码\无线运动传感器节点服务器 TCP+蓝牙版本\obj\Debug\无线运动传感器节点服务器.exe
+E:\2016淘宝\2020年TI杯电子设计大赛 A题 无线运动传感器节点设计\无线运动传感器节点开源资料\服务器端工程源码\无线运动传感器节点服务器 TCP+蓝牙版本\obj\Debug\无线运动传感器节点服务器.pdb
+E:\2016淘宝\2020年TI杯电子设计大赛 A题 无线运动传感器节点设计\无线运动传感器节点开源资料\服务器端工程源码\无线运动传感器节点服务器 TCP+蓝牙版本\bin\Debug\无线运动传感器节点服务器.exe
+E:\2016淘宝\2020年TI杯电子设计大赛 A题 无线运动传感器节点设计\无线运动传感器节点开源资料\服务器端工程源码\无线运动传感器节点服务器 TCP+蓝牙版本\bin\Debug\无线运动传感器节点服务器.pdb
+E:\2016淘宝\2020年TI杯电子设计大赛 A题 无线运动传感器节点设计\无线运动传感器节点开源资料\服务器端工程源码\无线运动传感器节点服务器 TCP+蓝牙版本\obj\Debug\无线运动传感器节点服务器.Form1.resources
+E:\2016淘宝\2020年TI杯电子设计大赛 A题 无线运动传感器节点设计\无线运动传感器节点开源资料\服务器端工程源码\无线运动传感器节点服务器 TCP+蓝牙版本\obj\Debug\无线运动传感器节点服务器.Properties.Resources.resources
+E:\2016淘宝\2020年TI杯电子设计大赛 A题 无线运动传感器节点设计\无线运动传感器节点开源资料\服务器端工程源码\无线运动传感器节点服务器 TCP+蓝牙版本\obj\Debug\无线运动传感器节点服务器.csproj.GenerateResource.cache
+E:\2016淘宝\2020年TI杯电子设计大赛 A题 无线运动传感器节点设计\无线运动传感器节点开源资料\服务器端工程源码\无线运动传感器节点服务器 TCP+蓝牙版本\obj\Debug\无线运动传感器节点服务器.csproj.CoreCompileInputs.cache
+E:\2016淘宝\TCD1304串口板\上位机程序\bin\Debug\无线运动传感器节点服务器.exe
+E:\2016淘宝\TCD1304串口板\上位机程序\bin\Debug\无线运动传感器节点服务器.pdb
+E:\2016淘宝\TCD1304串口板\上位机程序\obj\Debug\无线运动传感器节点服务器.csprojAssemblyReference.cache
+E:\2016淘宝\TCD1304串口板\上位机程序\obj\Debug\无线运动传感器节点服务器.Form1.resources
+E:\2016淘宝\TCD1304串口板\上位机程序\obj\Debug\无线运动传感器节点服务器.Properties.Resources.resources
+E:\2016淘宝\TCD1304串口板\上位机程序\obj\Debug\无线运动传感器节点服务器.csproj.GenerateResource.cache
+E:\2016淘宝\TCD1304串口板\上位机程序\obj\Debug\无线运动传感器节点服务器.csproj.CoreCompileInputs.cache
+E:\2016淘宝\TCD1304串口板\上位机程序\obj\Debug\无线运动传感器节点服务器.exe
+E:\2016淘宝\TCD1304串口板\上位机程序\obj\Debug\无线运动传感器节点服务器.pdb
+E:\2016淘宝\TCD1304串口板\上位机程序202010301710\bin\Debug\无线运动传感器节点服务器.exe
+E:\2016淘宝\TCD1304串口板\上位机程序202010301710\bin\Debug\无线运动传感器节点服务器.pdb
+E:\2016淘宝\TCD1304串口板\上位机程序202010301710\obj\Debug\无线运动传感器节点服务器.csprojAssemblyReference.cache
+E:\2016淘宝\TCD1304串口板\上位机程序202010301710\obj\Debug\无线运动传感器节点服务器.Form1.resources
+E:\2016淘宝\TCD1304串口板\上位机程序202010301710\obj\Debug\无线运动传感器节点服务器.Properties.Resources.resources
+E:\2016淘宝\TCD1304串口板\上位机程序202010301710\obj\Debug\无线运动传感器节点服务器.csproj.GenerateResource.cache
+E:\2016淘宝\TCD1304串口板\上位机程序202010301710\obj\Debug\无线运动传感器节点服务器.csproj.CoreCompileInputs.cache
+E:\2016淘宝\TCD1304串口板\上位机程序202010301710\obj\Debug\无线运动传感器节点服务器.exe
+E:\2016淘宝\TCD1304串口板\上位机程序202010301710\obj\Debug\无线运动传感器节点服务器.pdb
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序202010301710\bin\Debug\无线运动传感器节点服务器.exe
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序202010301710\bin\Debug\无线运动传感器节点服务器.pdb
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序202010301710\obj\Debug\无线运动传感器节点服务器.csprojAssemblyReference.cache
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序202010301710\obj\Debug\无线运动传感器节点服务器.Form1.resources
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序202010301710\obj\Debug\无线运动传感器节点服务器.Properties.Resources.resources
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序202010301710\obj\Debug\无线运动传感器节点服务器.csproj.GenerateResource.cache
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序202010301710\obj\Debug\无线运动传感器节点服务器.csproj.CoreCompileInputs.cache
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序202010301710\obj\Debug\无线运动传感器节点服务器.exe
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序202010301710\obj\Debug\无线运动传感器节点服务器.pdb

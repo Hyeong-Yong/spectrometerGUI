@@ -1,0 +1,63 @@
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序202010301710\obj\Debug\CCD上位机.csprojAssemblyReference.cache
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序202010301710\obj\Debug\CCD上位机.csproj.GenerateResource.cache
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序202010301710\obj\Debug\CCD上位机.csproj.CoreCompileInputs.cache
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序202010301710\bin\Debug\CCD上位机.exe
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序202010301710\bin\Debug\CCD上位机.pdb
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序202010301710\obj\Debug\CCD上位机.Properties.Resources.resources
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序202010301710\obj\Debug\CCD上位机.exe
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序202010301710\obj\Debug\CCD上位机.pdb
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序202010301710\obj\Debug\CCD上位机.Form1.resources
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序20201125\bin\Debug\CCD上位机.exe
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序20201125\bin\Debug\CCD上位机.pdb
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序20201125\obj\Debug\CCD上位机.csprojAssemblyReference.cache
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序20201125\obj\Debug\CCD上位机.Form1.resources
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序20201125\obj\Debug\CCD上位机.Properties.Resources.resources
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序20201125\obj\Debug\CCD上位机.csproj.GenerateResource.cache
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序20201125\obj\Debug\CCD上位机.csproj.CoreCompileInputs.cache
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序20201125\obj\Debug\CCD上位机.exe
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序20201125\obj\Debug\CCD上位机.pdb
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20201130\bin\Debug\CCD上位机.exe
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20201130\bin\Debug\CCD上位机.pdb
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20201130\obj\Debug\CCD上位机.csprojAssemblyReference.cache
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20201130\obj\Debug\CCD上位机.Form1.resources
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20201130\obj\Debug\CCD上位机.Properties.Resources.resources
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20201130\obj\Debug\CCD上位机.csproj.GenerateResource.cache
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20201130\obj\Debug\CCD上位机.csproj.CoreCompileInputs.cache
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20201130\obj\Debug\CCD上位机.exe
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20201130\obj\Debug\CCD上位机.pdb
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据）\bin\Debug\CCD上位机.exe
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据）\bin\Debug\CCD上位机.pdb
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据）\obj\Debug\CCD上位机.csprojAssemblyReference.cache
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据）\obj\Debug\CCD上位机.Form1.resources
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据）\obj\Debug\CCD上位机.Properties.Resources.resources
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据）\obj\Debug\CCD上位机.csproj.GenerateResource.cache
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据）\obj\Debug\CCD上位机.csproj.CoreCompileInputs.cache
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据）\obj\Debug\CCD上位机.exe
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据）\obj\Debug\CCD上位机.pdb
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据） - 副本\bin\Debug\CCD上位机.exe
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据） - 副本\bin\Debug\CCD上位机.pdb
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据） - 副本\obj\Debug\CCD上位机.csprojAssemblyReference.cache
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据） - 副本\obj\Debug\CCD上位机.Form1.resources
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据） - 副本\obj\Debug\CCD上位机.Properties.Resources.resources
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据） - 副本\obj\Debug\CCD上位机.csproj.GenerateResource.cache
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据） - 副本\obj\Debug\CCD上位机.csproj.CoreCompileInputs.cache
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据） - 副本\obj\Debug\CCD上位机.exe
+E:\淘宝\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据） - 副本\obj\Debug\CCD上位机.pdb
+E:\00001、电子项目\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据）\bin\Debug\CCD上位机.exe
+E:\00001、电子项目\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据）\bin\Debug\CCD上位机.pdb
+E:\00001、电子项目\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据）\obj\Debug\CCD上位机.csprojAssemblyReference.cache
+E:\00001、电子项目\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据）\obj\Debug\CCD上位机.Form1.resources
+E:\00001、电子项目\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据）\obj\Debug\CCD上位机.Properties.Resources.resources
+E:\00001、电子项目\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据）\obj\Debug\CCD上位机.csproj.GenerateResource.cache
+E:\00001、电子项目\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据）\obj\Debug\CCD上位机.csproj.CoreCompileInputs.cache
+E:\00001、电子项目\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据）\obj\Debug\CCD上位机.exe
+E:\00001、电子项目\003、TCD1304串口板（淘宝上线）\上位机程序\上位机程序20210202（增加8位数据）\obj\Debug\CCD上位机.pdb
+C:\programs\linear sensor TCD1304\호스트 컴퓨터 프로그램 C#-VS2019\bin\Debug\CCD上位机.exe
+C:\programs\linear sensor TCD1304\호스트 컴퓨터 프로그램 C#-VS2019\bin\Debug\CCD上位机.pdb
+C:\programs\linear sensor TCD1304\호스트 컴퓨터 프로그램 C#-VS2019\obj\Debug\CCD上位机.csproj.AssemblyReference.cache
+C:\programs\linear sensor TCD1304\호스트 컴퓨터 프로그램 C#-VS2019\obj\Debug\CCD上位机.Form1.resources
+C:\programs\linear sensor TCD1304\호스트 컴퓨터 프로그램 C#-VS2019\obj\Debug\CCD上位机.Properties.Resources.resources
+C:\programs\linear sensor TCD1304\호스트 컴퓨터 프로그램 C#-VS2019\obj\Debug\CCD上位机.csproj.GenerateResource.cache
+C:\programs\linear sensor TCD1304\호스트 컴퓨터 프로그램 C#-VS2019\obj\Debug\CCD上位机.csproj.CoreCompileInputs.cache
+C:\programs\linear sensor TCD1304\호스트 컴퓨터 프로그램 C#-VS2019\obj\Debug\CCD上位机.exe
+C:\programs\linear sensor TCD1304\호스트 컴퓨터 프로그램 C#-VS2019\obj\Debug\CCD上位机.pdb
